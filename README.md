@@ -5,7 +5,7 @@ I am **MethodDEV** **(Dipen Soni from India).*
 
 > “ On a journey to turn into productive 🧑‍💻 Software Dev & 🪶 Tech Creator, build authentic community to help to makes me feel DEV again by the guidance of acting methodology. “
 
-**🔥 Personal Statement**
+> **🔥 Personal Statement**
 > 
 
 🔭 Currently Exploring the various technologies.
