@@ -1,14 +1,14 @@
-### Hi there 👋
-## Namaste 🙏
-
-I am **MethodDEV** **(Dipen Soni from India).*
+<div background-color:#222; color:#efefef">
+<h1 align="center" background-color:"#222">Namaste 🙏</h1>
+<h3 align="center">I am <strong>MethodDEV (Dipen Soni from India).</strong></h3>
+</div>
 
 > “ On a journey to turn into productive 🧑‍💻 Software Dev & 🪶 Tech Creator, build authentic community to help to makes me feel DEV again by the guidance of acting methodology. “
 
-> **🔥 Personal Statement**
-> 
+<strong>🔥 Personal Statement</strong>
 
-🔭 Currently Exploring the various technologies.
+
+<strong>🔭 Currently Exploring the various technologies.</strong>
 
 🌱 Learning web development & programming.
 
