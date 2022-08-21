@@ -1,59 +1,75 @@
-<div background-color:#222; color:#efefef">
-<h1 align="center" background-color:"#222">Namaste 🙏</h1>
-<h3 align="center">I am <strong>MethodDEV (Dipen Soni from India).</strong></h3>
-</div>
+<h1 align="center">
+  नमस्ते (Namaste) 
+  <img src="https://cliply.co/wp-content/uploads/2020/08/432008031_FOLDED_HANDS_3D_LIGHT_SKIN_TONE_400.png" width="60px" height="60px"></h1>
+<h3 align="center">I am MethodDEV (Dipen Soni from India).</h3>
+</br>
+<img src="https://free3dicon.com/wp-content/uploads/2022/03/mission-300x300.png.webp" align="left" width="120px" height="120px">
+<p align="center"><strong>"On a journey to turn into productive 🧑‍💻 Software Dev & 🪶 Tech Creator, build authentic </br>community to help to makes me feel DEV again by the guidance of acting methodology."</br></br>
+<em>[ -- 🔥 Personal Statement  -- ]</em></strong>
+</p>
 
-> “ On a journey to turn into productive 🧑‍💻 Software Dev & 🪶 Tech Creator, build authentic community to help to makes me feel DEV again by the guidance of acting methodology. “
+<hr>
 
-<strong>🔥 Personal Statement</strong>
+<P>🔭 Currently Exploring the various technologies.</p>
 
+<p>🌱 Learning web development & programming.</p>
 
-<strong>🔭 Currently Exploring the various technologies.</strong>
+<hr>
 
-🌱 Learning web development & programming.
+<h2>⚡Fun Facts</h2>
+<img src="https://free3dicon.com/wp-content/uploads/2022/04/information-300x300.png.webp" align="right" width="210px" height="210px" />
 
-### ⚡Fun Facts
+<strong>😎 Identify:</strong> He/His
 
----
+<strong>Behavior:</strong> 🤓 Nerd by heart & enthusiastic by nature
 
-😎 **Identify:** He/His
+<strong>⚙️ Gears:</strong> 💻 Dell Inspiron laptop with 8GB RAM
 
-**Behavior:** 🤓 Nerd by heart & enthusiastic by nature
+<strong>🥷 Environment:</strong> Dark 🌑 + Custom Fonts  + Tea 🫖
 
-⚙️ **Gears :** 💻 Dell Inspiron laptop with 8GB RAM
+<strong>Editor:</strong> VS Code
 
-🥷**Environment:** Dark 🌑 + Custom Fonts  + Tea 🫖
+<strong>Stay organized:</strong> Notion, Obsidian
 
-**Editor:** VS Code
+<strong>Followed tech giant:</strong> Google, IBM, Amazon, Twitter, TCS, Microsoft, Tesla, Wipro, Infosys, L&T, PayPal, Oracle 
 
-**Stay organized:** Notion, Obsidian
+<hr>
 
-**Followed tech giant:** Google, IBM, Amazon, Twitter, TCS, Microsoft, Tesla, Wipro, Infosys, L&T, PayPal, Oracle 
+<h2>Future Planning</h2>
 
-### Future Planning
+<ol>
+  <li>Building Tools</li>
+  <li>Contribute to Open-Source</li>
+  <li>Contribute to Linux kernel</li>
+  <li>Internship @Google, @Amazon, @Netflix, @Adobe, @IBM</li>
+</ol>
 
----
+<strong>***** Just starting out more is coming more soon…**</strong>
+</br>
+</br>
+</br>
 
-- [ ]  Building Tools
-- [ ]  Contribute to Open-Source
-- [ ]  Contribute to Linux kernel
-- [ ]  Internship @Google, @Amazon, @Netflix, @Adobe, @IBM
+<table align="center" border="0px">
+<tbody>
+<tr>
+  <td><a href="https://twitter.com/themethodDEV"><img src="https://free3dicon.com/wp-content/uploads/2021/03/twitter_perspective_matte_s-1-300x300.png.webp" alt="My thought process on Twitter" width="100px" height="100px" /></a></td>
+  <td><a href="https://www.instagram.com/themethoddev/"><img src="https://free3dicon.com/wp-content/uploads/2021/03/instagram_perspective_matte_s-1-300x300.png.webp" alt="Visuals Journey" width="100px" height="100px" /></a></td>
+  <td><a href="https://hashnode.com/@MethodDEV"><img src="https://free3dicon.com/wp-content/uploads/2022/02/feather-300x300.png.webp" alt="MDEV's Blog" width="100px" height="100px" /></a></td>
+  <td><a href="mailto:dipen.methoddev@gmail.com"><img src="https://free3dicon.com/wp-content/uploads/2021/08/e-mail_perspective_matte_s-2-300x300.png.webp" alt="MDEV's Blog" width="100px" height="100px" /></a></td>
+</tr>
 
-***** Just starting out more is coming more soon…**
+<tr align="center">
+  <td><strong>Thoughts</strong></td>
+  <td><strong>Visual jorney</strong></td>
+  <td><strong>Blog</strong></td>
+  <td><strong>Drop Mail</strong></td>
+</tr>
+</tbody>
+</table>
 
-### 📢 Contact
+</br>
 
----
-
-💭 My thought process :
-
-🛣️ Visuals of my journey: 
-
-🪶 I am writing @[https://methoddev.hashnode.dev/](https://methoddev.hashnode.dev/)
-
-Some quick boilerplate: 
-
-### 👌 “”
+<h3 align="center">👌 “STAY AWSOME | HAPPY CODING”</h3>
 
 <!--
 **theMethodDEV/themethodDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
