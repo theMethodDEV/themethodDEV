@@ -3,7 +3,7 @@
   <img src="https://cliply.co/wp-content/uploads/2020/08/432008031_FOLDED_HANDS_3D_LIGHT_SKIN_TONE_400.png" width="60px" height="60px"></h1>
 <h3 align="center">I am MethodDEV (Dipen Soni from India).</h3>
 </br>
-<img src="https://free3dicon.com/wp-content/uploads/2022/03/mission-300x300.png.webp" align="left" width="120px" height="120px">
+<img src="https://free3dicon.com/wp-content/uploads/2022/08/Mission-264x264.png" align="left" width="120px" height="120px">
 <p align="center"><strong>"On a journey to turn into productive 🧑‍💻 Software Dev & 🪶 Tech Creator, build authentic </br>community to help to makes me feel DEV again by the guidance of acting methodology."</br></br>
 <em>[ -- 🔥 Personal Statement  -- ]</em></strong>
 </p>
