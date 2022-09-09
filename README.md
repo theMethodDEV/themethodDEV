@@ -54,7 +54,7 @@
 <tr>
   <td><a href="https://twitter.com/themethodDEV"><img src="https://free3dicon.com/wp-content/uploads/2022/07/perspective_matte-58-264x264.png" alt="My thought process on Twitter" width="100px" height="100px" /></a></td>
   <td><a href="https://www.instagram.com/themethoddev/"><img src="https://free3dicon.com/wp-content/uploads/2022/07/perspective_matte-44-264x264.png" alt="Visuals Journey" width="100px" height="100px" /></a></td>
-  <td><a href="https://hashnode.com/@MethodDEV"><img src="https://cdn3d.iconscout.com/3d/premium/preview/color-feather-6303147-5209370@0.png?w=0&h=700&f=jpeg" alt="MDEV's Blog" width="100px" height="100px" /></a></td>
+  <td><a href="https://hashnode.com/@MethodDEV"><img src="https://img.icons8.com/external-soft-fill-juicy-fish/344/external-feather-video-game-elements-soft-fill-soft-fill-juicy-fish.png" alt="MDEV's Blog" width="100px" height="100px" /></a></td>
   <td><a href="mailto:dipen.methoddev@gmail.com"><img src="https://free3dicon.com/wp-content/uploads/2022/07/perspective_matte-127-264x264.png" alt="MDEV's Blog" width="100px" height="100px" /></a></td>
 </tr>
 
