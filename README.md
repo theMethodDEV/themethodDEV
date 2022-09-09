@@ -17,7 +17,7 @@
 <hr>
 
 <h2>⚡Fun Facts</h2>
-<img src="[https://free3dicon.com/wp-content/uploads/2022/04/information-300x300.png.webp](https://free3dicon.com/wp-content/uploads/2022/08/perspective_matte-18-264x264.png)" align="right" width="210px" height="210px" />
+<img src="https://free3dicon.com/wp-content/uploads/2022/08/perspective_matte-18-264x264.png" align="right" width="210px" height="210px" />
 
 <strong>😎 Identify:</strong> He/His
 
