@@ -52,7 +52,7 @@
 <table align="center" border="0px">
 <tbody>
 <tr>
-  <td><a href="https://twitter.com/themethodDEV"><img src="[https://free3dicon.com/wp-content/uploads/2021/03/twitter_perspective_matte_s-1-300x300.png.webp](https://free3dicon.com/wp-content/uploads/2022/07/perspective_matte-58-264x264.png)" alt="My thought process on Twitter" width="100px" height="100px" /></a></td>
+  <td><a href="https://twitter.com/themethodDEV"><img src="https://free3dicon.com/wp-content/uploads/2021/03/twitter_perspective_matte_s-1-300x300.png.webp (https://free3dicon.com/wp-content/uploads/2022/07/perspective_matte-58-264x264.png)" alt="My thought process on Twitter" width="100px" height="100px" /></a></td>
   <td><a href="https://www.instagram.com/themethoddev/"><img src="[https://free3dicon.com/wp-content/uploads/2021/03/instagram_perspective_matte_s-1-300x300.png.webp](https://free3dicon.com/wp-content/uploads/2022/07/perspective_matte-44-264x264.png)" alt="Visuals Journey" width="100px" height="100px" /></a></td>
   <td><a href="https://hashnode.com/@MethodDEV"><img src="https://free3dicon.com/wp-content/uploads/2022/02/feather-300x300.png.webp" alt="MDEV's Blog" width="100px" height="100px" /></a></td>
   <td><a href="mailto:dipen.methoddev@gmail.com"><img src="[https://free3dicon.com/wp-content/uploads/2021/08/e-mail_perspective_matte_s-2-300x300.png.webp](https://free3dicon.com/wp-content/uploads/2022/07/perspective_matte-127-264x264.png)" alt="MDEV's Blog" width="100px" height="100px" /></a></td>
